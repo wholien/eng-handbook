@@ -90,15 +90,15 @@ This can be roughly categorized into (1) things you need to cover this week or r
 * Any thoughts on recent company all hands, announcements, org /or process updates?
 * How do you think project X went?
 * *Here are a few great suggestions from [Ben Horowitz’s guide](https://a16z.com/2012/08/30/one-on-one/)*:
-* If we could improve in any way, how would we do it?
-* What’s the No. 1 problem with our organization? Why?
-* What’s not fun about working here?
-* Who is really kicking ass in the company? Who do you admire?
-* If you were me, what changes would you make?
-* What don’t you like about the product?
-* What’s the biggest opportunity that we’re missing out on?
-* What are we not doing that we should be doing?
-* Are you happy working here?
+  * If we could improve in any way, how would we do it?
+  * What’s the No. 1 problem with our organization? Why?
+  * What’s not fun about working here?
+  * Who is really kicking ass in the company? Who do you admire?
+  * If you were me, what changes would you make?
+  * What don’t you like about the product?
+  * What’s the biggest opportunity that we’re missing out on?
+  * What are we not doing that we should be doing?
+  * Are you happy working here?
 
 *Note that it's easy for these types of longer-term topics (3) to fall to the bottom of the priority list, so make sure to incorporate some into your [(1) Things to cover now](#1-things-to-cover-now) list on a regular basis.*
 
